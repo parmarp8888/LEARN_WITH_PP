@@ -20,7 +20,7 @@ Welcome to my personal accountability lab tracker. I am documenting my day-by-da
 
 | Phase | Topics / Modules | Duration | Status | Milestone Project |
 | :--- | :--- | :--- | :--- | :--- |
-| **Phase 0** | [Cyber & SOC Foundation](https://github.com/parmarp8888/Phase-0_SOC-Analyst-PP/commit/b4039edada405d809edd67080e7c6ef8d1ef370e) | Day 01-11 | 🟡DONE| Mini SOC Shift Report & Threat Lifecycle |
+| **Phase 0** |[ Cyber & SOC Foundation](https://github.com/parmarp8888/Phase-0_SOC-Analyst-PP#)| Day 01-11 | 🟡DONE| Mini SOC Shift Report & Threat Lifecycle |
 | **Phase 1** | [Networking & Traffic Analysis](./Phase-01-Networking-Traffic-Analysis/) | Day 12-18 | 🛑 Pending | PCAP Traffic Analysis & Wireshark Beaconing |
 | **Phase 2** | [Linux Fundamentals for SOC](./Phase-02-Linux-Fundamentals/) | Day 19-25 | 🛑 Pending | Linux Persistence Hunt (VM Logs Triage) |
 | **Phase 3** | [Windows Investigation (DFIR)](./Phase-03-Windows-Investigation-DFIR/) | Day 26-36 | 🛑 Pending | Compromised Workstation Registry Triage |
